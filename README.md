@@ -1,38 +1,49 @@
-<!-- =========================================================
-     CH0NG.exe — Y2K CYBER GITHUB README
-     ========================================================= -->
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Xuan.me%20🌸&fontAlign=50&fontAlignY=38&desc=CS%20Student%20|%20Cat%20Lover%20|%20Dreamer&descAlign=50&descAlignY=60&color=ffb7c5" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=CH0NG.exe&fontAlign=50&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20China&descAlign=50&descAlignY=60&color=gradient" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=FF69B4&center=true&vCenter=true&width=760&lines=Meow!+Welcome+to+my+garden;CS+Student+from+China;Building+cute+things+with+code;Sakura+season+is+forever;✨+Stay+kawaii+and+keep+coding+✨" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=800&color=00FFD1&center=true&vCenter=true&width=760&lines=System+booting...;Welcome+to+CH0NG.exe;CS+Student+from+China;Eat.+Sleep.+Code.+Repeat.;Y2K+Tech+Forever" />
-
-<p>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffd1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ERA-Y2K-ff4fd8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MODE-NIGHT%20CODER-8a2be2?style=for-the-badge" />
-</p>
-
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-CHILLING-ffc0cb?style=for-the-badge&logo=github-sponsors" />
+    <img src="https://img.shields.io/badge/VIBE-PINK%20PAWS-ffb7c5?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MODE-SAKURA%20CODER-ff69b4?style=for-the-badge" />
+  </p>
 </div>
 
 ---
 
-## 🧬 About Me
-👋 Hi, I’m **Chong**  
-🎓 Computer Science student at **Zhejiang University (浙江大学)**  
-📍 China  
-🧠 Passionate about software, systems, and building things that *feel alive*  
-🌐 Obsessed with retro UI, neon colors, and futuristic tech
+## 🌸 About Me
+
+👋 Hiya! I’m **Xuan** (she/her)
+🎓 Computer Science student at **Zhejiang University (浙江大学)**
+📍 China
+🐾 I love building software that is as beautiful as a cherry blossom tree and as cozy as a sleeping kitten.
+💖 Obsessed with pastel aesthetics, UI design, and feline-inspired tech.
 
 ---
 
-## 🧿 Life Lately
+## 🐾 Life Lately
+
 <div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
-
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2cXBpZzZ0Z3Z4bmZ6eXN0eXF6eXN0eXF6eXN0eXF6eXN0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IPXW5xJ2k1m5u0/giphy.gif" width="420" alt="Sakura Falling Aesthetic"/>
+  
+  <p align="center">
+    <i>wake up → pet cat → code → matcha latte → code → dreaming...</i>
+  </p>
 </div>
 
-```txt
-wake up → code → debug → coffee → code → repeat
+---
+
+## 🎀 My Kitty-Toolbox
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,cpp,figma&theme=light" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Xuan&color=ffb7c5&style=flat-square&label=Visitors+Count" />
+  <br>
+  ✨ <i>"Everything is better with a bit of pink and a lot of paws."</i> ✨
+</div>
